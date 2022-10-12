@@ -1,0 +1,9 @@
+{
+    "cmake.configureEnvironment": {
+        "FB_HOME": "/opt/firebird"
+    },
+    "files.associations": {
+        "stdexcept": "cpp",
+        "string": "cpp"
+    }
+}
